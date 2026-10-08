@@ -2,7 +2,7 @@
 
 **Embedded Software Engineer** · C/C++ · STM32 · Embedded Linux · Android Automotive
 
-- 🔧 5 years at **ACTIA Engineering Services**: STM32CubeMX for **STMicroelectronics**, Android Automotive for **Renault**
+- 🔧 5 years at **ACTIA Engineering Services**: STM32 ecosystem tooling for **STMicroelectronics**, Android Automotive for **Renault**
 - 🚗 CAN firmware (Linux kernel/driver layer), FOTA, C++17 services, Treble HALs, AOSP/SELinux debugging
 - 📡 Side projects: ESP32 / ESP8266 IoT with ESP-NOW, LVGL touch UIs, event-driven firmware
 - 🇫🇷 Fluent in French, open to embedded roles in France
